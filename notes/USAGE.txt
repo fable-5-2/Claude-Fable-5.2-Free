@@ -1,0 +1,1 @@
+Open the desk and pick Fable 5.2. Adaptive thinking paces long agent runs; the 1M context and 128k output sit at $8/$40 per million, fast tier $16/$80.
